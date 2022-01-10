@@ -12,7 +12,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <artifactId>iwvg-devops-brooks-yosbel</artifactId>
+    <artifactId>bug-iwvg-devops-brooks-yosbel</artifactId>
     <groupId>es.upm.miw</groupId>
     <version>2.0.0-RELEASE</version>
     <packaging>jar</packaging>
