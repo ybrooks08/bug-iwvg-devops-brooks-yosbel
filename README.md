@@ -6,7 +6,7 @@
 [![DevOps](https://github.com/ybrooks08/bug-iwvg-devops-brooks-yosbel/actions/workflows/test-sonar.yml/badge.svg)](https://github.com/ybrooks08/bug-iwvg-devops-brooks-yosbel/actions/workflows/test-sonar.yml)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=ybrooks08_iwvg-devops-brooks-yosbel&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=ybrooks08_iwvg-devops-brooks-yosbel)
 [![BCH compliance](https://bettercodehub.com/edge/badge/miw-upm/iwvg-devops?branch=develop)](https://bettercodehub.com/results/miw-upm/iwvg-devops)
-[![Heroku broken](https://iwvg-devops.herokuapp.com/system/version-badge)](https://iwvg-devops.herokuapp.com/swagger-ui.html)
+[![Heroku broken](https://bug-iwvg-devops-brooks-yosbel.herokuapp.com/system/version-badge)](https://bug-iwvg-devops-brooks-yosbel.herokuapp.com/swagger-ui.html)
 
 
 ### :gear: Instalación del proyecto
